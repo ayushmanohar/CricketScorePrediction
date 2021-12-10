@@ -10,3 +10,5 @@ Software: Scikit-Learn, Jupyter Notebook
 Dataset: IPL Dataset
 
 
+
+![1](https://user-images.githubusercontent.com/65915038/145596576-c6d54c1f-21f6-44a8-8013-6db84a650394.png)
